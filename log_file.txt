@@ -1,0 +1,24 @@
+2024-Dec-19-19:09:56,ETL Job Started
+2024-Dec-19-19:09:56,Extract phase Started
+2024-Dec-19-19:09:56,Empty DataFrame
+Columns: [name, height, weight]
+Index: []
+2024-Dec-19-19:09:56,Extract phase Ended
+2024-Dec-19-19:11:05,ETL Job Started
+2024-Dec-19-19:11:05,Extract phase Started
+2024-Dec-19-19:11:05,Empty DataFrame
+Columns: [name, height, weight]
+Index: []
+2024-Dec-19-19:11:05,Extract phase Ended
+2024-Dec-19-19:12:32,ETL Job Started
+2024-Dec-19-19:12:32,Extract phase Started
+2024-Dec-19-19:12:32,Empty DataFrame
+Columns: [name, height, weight]
+Index: []
+2024-Dec-19-19:12:32,Extract phase Ended
+2024-Dec-19-19:18:16,ETL Job Started
+2024-Dec-19-19:18:16,Extract phase Started
+2024-Dec-19-19:18:16,Empty DataFrame
+Columns: [name, height, weight]
+Index: []
+2024-Dec-19-19:18:16,Extract phase Ended
